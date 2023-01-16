@@ -9,3 +9,4 @@ This repository contains my code for the [Grokking Algorithms](https://amzn.to/2
 3. [Chapter 3: Recursion](./03_recursion/)
 4. [Chapter 4: Quick sort](./04_quick_sort/)
 5. [Chapter 5: Hash tables](./05_hash_tables/)
+6. [Chapter 6: Breadth-first search](./06_bfs/)
