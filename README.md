@@ -10,3 +10,4 @@ This repository contains my code for the [Grokking Algorithms](https://amzn.to/2
 4. [Chapter 4: Quick sort](./04_quick_sort/)
 5. [Chapter 5: Hash tables](./05_hash_tables/)
 6. [Chapter 6: Breadth-first search](./06_bfs/)
+7. [Chapter 7: Dijkstra algorithm](./07_dijkstra_algorithm/)
