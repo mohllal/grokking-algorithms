@@ -12,3 +12,4 @@ This repository contains my code for the [Grokking Algorithms](https://amzn.to/2
 6. [Chapter 6: Breadth-first search](./06_bfs/)
 7. [Chapter 7: Dijkstra algorithm](./07_dijkstra_algorithm/)
 8. [Chapter 8: Greedy algorithms](./08_greedy_algorithms/)
+9. [Chapter 9: Dynamic programming](./09_dynamic_programming/)
